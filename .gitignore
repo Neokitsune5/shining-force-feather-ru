@@ -1,0 +1,10 @@
+# Release artifacts
+*.xdelta
+*.nds
+*.zip
+*.7z
+*.rar
+
+# Local verification output
+release/
+verification/
